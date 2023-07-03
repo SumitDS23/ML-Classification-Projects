@@ -1,2 +1,8 @@
 # ML-Classification-Projects
 https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets
+# TOPIC: Term Deposit Subscription Prediction
+# Introduction
+The project is focused on predicting the term deposit subscription of a bank from the bank's marketing dataset. In today's competitive banking industry customer acquisition and retention are vital for Bank's success. The ability to accurately identify potential customers can significantly impact a bank's marketing strategy and overall business success. The aim of this project is to build a model which will provide valuable insights to the bank, enabling them to allocate their marketing resources more efficiently and tailor their promotional efforts to those customers who are more likely to convert.
+
+# Business Objective
+Term Deposit is a type of investment done in a bank that gives a certain rate of interest on the condition that the deposited amount cannot be withdrawn until the term ends. Term deposits are important because within the term of the investment banks can lend this money to the businesses and earn from the interest. Term Deposits are one of the best investment options for many people who are looking for stable and safe returns on their investments. Banks spend lots of money in direct and indirect marketing to acquire customers to invest in their term deposit plans. Therefore it is very important for banks to identify potential customers who are eager to invest in term deposit plans thereby they can spend their marketing budget more efficiently to reach out to these people and convert them into customers.
